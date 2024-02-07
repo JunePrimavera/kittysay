@@ -9,9 +9,9 @@ The cutest successor of [`cowsay`](https://en.wikipedia.org/wiki/Cowsay).
   ----
   \
     \
-      ／l、
+      ／|、
     （ﾟ､ ｡ ７
-      l  ~ヽ
+      |  ~ヽ
       じしf_,)ノ
 
 
